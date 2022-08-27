@@ -36,7 +36,7 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94866222/187039351-b49d7b16-e9e1-461f-92cc-db279f9f38cf.png" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-4.jpg" width="40" height="40"/> </a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94866222/187039381-dca58566-b3ae-4f95-94b5-521aebac91ab.png" alt="lua" width="40" height="40"/> </a>
-<a href=https://www.construct.net/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" alt="construct3" width="40" height="40"/> </a>
+<a href= "https://www.construct.net/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" alt="construct3" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left"> 🖌️ Design Tools</h3>
@@ -48,9 +48,8 @@
 </p>
 
 <h3 align="left">🔥 My Stats</h3>
-<p align="centre">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mynameishaheer&hide_border=true)](https://git.io/streak-stats)
-</p>
 
 <br />                 
             
